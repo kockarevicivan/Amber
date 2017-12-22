@@ -1,0 +1,8 @@
+﻿<!DOCTYPE homl>
+<homl>
+	<head></head>
+	<body>
+    <text>Test page</text>
+		<object id="testId" src="myobj.obj" />
+	</body>
+</homl>

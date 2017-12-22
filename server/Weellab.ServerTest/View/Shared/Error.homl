@@ -1,0 +1,8 @@
+﻿<!DOCTYPE homl>
+<homl>
+	<head></head>
+	<body>
+    <text>Error page</text>
+		<object id="errId" src="myobj.obj" />
+	</body>
+</homl>

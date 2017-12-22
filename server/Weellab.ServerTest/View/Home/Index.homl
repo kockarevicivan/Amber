@@ -1,0 +1,9 @@
+﻿<!DOCTYPE homl>
+<homl>
+	<head>
+    <link href="/Oss/index.oss" />
+  </head>
+	<body>
+		<object id="indexId" src="/Static/objects/Crate.obj" />
+	</body>
+</homl>

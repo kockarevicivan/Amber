@@ -1,0 +1,30 @@
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Weellab.ServerTest\Weellab.ServerTest\bin\Debug\Weellab.ServerTest.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Weellab.ServerTest\Weellab.ServerTest\bin\Debug\Weellab.ServerTest.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Weellab.ServerTest\Weellab.ServerTest\bin\Debug\Weellab.ServerTest.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Weellab.ServerTest\Weellab.ServerTest\bin\Debug\Weellab.VRMVC.dll
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Weellab.ServerTest\Weellab.ServerTest\bin\Debug\Weellab.VRMVC.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Weellab.ServerTest\Weellab.ServerTest\obj\Debug\Weellab.ServerTest.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Weellab.ServerTest\Weellab.ServerTest\obj\Debug\Weellab.ServerTest.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Weellab.ServerTest\Weellab.ServerTest\obj\Debug\Weellab.ServerTest.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Weellab.ServerTest\Weellab.ServerTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\Weellab.ServerTest\Weellab.ServerTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\amber.client\Weellab.ServerTest\Weellab.ServerTest\bin\Debug\Weellab.ServerTest.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\amber.client\Weellab.ServerTest\Weellab.ServerTest\obj\Debug\Weellab.ServerTest.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\amber.client\Weellab.ServerTest\Weellab.ServerTest\obj\Debug\Weellab.ServerTest.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\amber.client\Weellab.ServerTest\Weellab.ServerTest\bin\Debug\Weellab.ServerTest.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\amber.client\Weellab.ServerTest\Weellab.ServerTest\bin\Debug\Weellab.ServerTest.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\amber.client\Weellab.ServerTest\Weellab.ServerTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\amber.client\Weellab.ServerTest\Weellab.ServerTest\bin\Debug\Weellab.VRMVC.dll
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\amber.client\Weellab.ServerTest\Weellab.ServerTest\bin\Debug\Weellab.VRMVC.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\amber.client\Weellab.ServerTest\Weellab.ServerTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\amber.client\Weellab.ServerTest\Weellab.ServerTest\obj\Debug\Weellab.ServerTest.csprojResolveAssemblyReference.cache
+D:\weellabProjects\Amber\Weellab.ServerTest\Weellab.ServerTest\bin\Debug\Weellab.ServerTest.exe.config
+D:\weellabProjects\Amber\Weellab.ServerTest\Weellab.ServerTest\obj\Debug\Weellab.ServerTest.exe
+D:\weellabProjects\Amber\Weellab.ServerTest\Weellab.ServerTest\obj\Debug\Weellab.ServerTest.pdb
+D:\weellabProjects\Amber\Weellab.ServerTest\Weellab.ServerTest\bin\Debug\Weellab.ServerTest.exe
+D:\weellabProjects\Amber\Weellab.ServerTest\Weellab.ServerTest\bin\Debug\Weellab.ServerTest.pdb
+D:\weellabProjects\Amber\Weellab.ServerTest\Weellab.ServerTest\bin\Debug\Newtonsoft.Json.dll
+D:\weellabProjects\Amber\Weellab.ServerTest\Weellab.ServerTest\bin\Debug\Weellab.VRMVC.dll
+D:\weellabProjects\Amber\Weellab.ServerTest\Weellab.ServerTest\bin\Debug\Weellab.VRMVC.pdb
+D:\weellabProjects\Amber\Weellab.ServerTest\Weellab.ServerTest\bin\Debug\Newtonsoft.Json.xml
+D:\weellabProjects\Amber\Weellab.ServerTest\Weellab.ServerTest\obj\Debug\Weellab.ServerTest.csprojResolveAssemblyReference.cache
